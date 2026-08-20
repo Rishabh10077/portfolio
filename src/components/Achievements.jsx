@@ -2,8 +2,8 @@ function Achievements() {
   const achievements = [
     'Perfect 10 CGPA in two college semesters',
     'Top 5% in NPTEL Introduction to Machine Learning',
-    'Scored 96% in Class 12',
-    'Scored 94% in Class 10',
+    'Scored 78% in Class 12',
+    'Scored 88% in Class 10',
     'Participated in national-level hackathons',
   ]
 
